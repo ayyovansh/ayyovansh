@@ -1,5 +1,5 @@
 
-![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)                     
+![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)                     
 
 
 <h1 align="center">Hi 👋, I'm Vansh Tyagi</h1>

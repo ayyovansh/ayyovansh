@@ -10,11 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/ayyovansh" target="blank"><img src="https://img.shields.io/twitter/follow/ayyovansh?logo=twitter&style=for-the-badge" alt="ayyovansh" /></a> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **KOTLIN**
 
-- 📫 How to reach me **vanshtyagi3232@gmail.com**
+- 📫 Contact me- **vanshtyagi3232@gmail.com**
 
-- ⚡ Fun fact **Sometimes i write songs too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

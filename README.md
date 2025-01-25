@@ -37,30 +37,15 @@ I am a passionate **Android Developer** specializing in **Kotlin**. With a love 
 
 ---
 
-## 📈 GitHub Stats
-
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
 
 ## 📱 Contact Me
 
-- 📧 Email: [vanshtyagi@example.com](mailto:vanshtyagi@example.com)
-- 🌐 LinkedIn: [linkedin.com/in/vanshtyagi](https://linkedin.com/in/vanshtyagi)
-- 💬 Twitter: [@vanshtyagi](https://twitter.com/vanshtyagi)
+- 📧 Email: [vanshtyagi3232@gmail.com](mailto:vanshtyagi3232@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/vanshtyagiii](https://linkedin.com/in/vanshtyagiiii)
+- 💬 Twitter: [@ayyovansh](https://twitter.com/ayyovansh)
 
 ---
 
-## 🌟 Projects
-
-Check out some of my highlighted projects:
-
-1. **[Project Name](https://github.com/your-repo-link)** - A short description of the project.
-2. **[Project Name](https://github.com/your-repo-link)** - A short description of the project.
-
----
 
 ## 🌱 Fun Facts
 

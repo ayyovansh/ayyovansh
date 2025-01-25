@@ -6,18 +6,10 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyovansh&label=Profile%20views&color=0e75b6&style=flat" alt="ayyovansh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ayyovansh" target="blank"><img src="https://img.shields.io/twitter/follow/ayyovansh?logo=twitter&style=for-the-badge" alt="ayyovansh" /></a> </p>
-
-- 🌱 I’m currently learning **KOTLIN**
 
 - 📫 Contact me- **vanshtyagi3232@gmail.com**
 
-
-# Hi there, I'm Vansh Tyagi! 👋
-
-![Banner](https://user-images.githubusercontent.com/your-profile-id/banner.png)
 
 I am a passionate **Android Developer** specializing in **Kotlin**. With a love for crafting seamless mobile experiences, I focus on writing clean, efficient, and maintainable code.
 

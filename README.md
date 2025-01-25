@@ -15,17 +15,67 @@
 - 📫 Contact me- **vanshtyagi3232@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayyovansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayyovansh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vanshtyagiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshtyagiii" height="30" width="40" /></a>
-</p>
+# Hi there, I'm Vansh Tyagi! 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+![Banner](https://user-images.githubusercontent.com/your-profile-id/banner.png)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayyovansh&show_icons=true&locale=en&layout=compact" alt="ayyovansh" /></p>
+I am a passionate **Android Developer** specializing in **Kotlin**. With a love for crafting seamless mobile experiences, I focus on writing clean, efficient, and maintainable code.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayyovansh&show_icons=true&locale=en" alt="ayyovansh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyovansh&" alt="ayyovansh" /></p>
+## 🚀 About Me
+
+- 🌱 Currently pursuing **BCA** at the **College of Engineering Roorkee**.
+- 💻 Proficient in building modern, user-friendly Android applications.
+- 📚 Always eager to learn and experiment with new technologies.
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Tools & Technologies
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 📱 Contact Me
+
+- 📧 Email: [vanshtyagi@example.com](mailto:vanshtyagi@example.com)
+- 🌐 LinkedIn: [linkedin.com/in/vanshtyagi](https://linkedin.com/in/vanshtyagi)
+- 💬 Twitter: [@vanshtyagi](https://twitter.com/vanshtyagi)
+
+---
+
+## 🌟 Projects
+
+Check out some of my highlighted projects:
+
+1. **[Project Name](https://github.com/your-repo-link)** - A short description of the project.
+2. **[Project Name](https://github.com/your-repo-link)** - A short description of the project.
+
+---
+
+## 🌱 Fun Facts
+
+- 🤖 I love building apps that solve real-world problems.
+- ✈️ When not coding, I enjoy traveling and exploring new places.
+
+---
+
+
+### 🌟 Don't forget to star ⭐ my repositories if you find them helpful!

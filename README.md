@@ -13,7 +13,7 @@
 
 I am a passionate **Android Developer** specializing in **Kotlin**. With a love for crafting seamless mobile experiences, I focus on writing clean, efficient, and maintainable code.
 
----
+
 
 ## 🚀 About Me
 
@@ -21,7 +21,7 @@ I am a passionate **Android Developer** specializing in **Kotlin**. With a love 
 - 💻 Proficient in building modern, user-friendly Android applications.
 - 📚 Always eager to learn and experiment with new technologies.
 
----
+
 
 ## 🛠️ Skills
 
@@ -35,7 +35,7 @@ I am a passionate **Android Developer** specializing in **Kotlin**. With a love 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 
 ## 📱 Contact Me
